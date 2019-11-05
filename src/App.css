@@ -127,3 +127,13 @@ span {
   font-size: 18px;
 }
 
+@media only screen and (max-device-width: 480px) {
+.movieName {
+  font-size: 2rem;
+}
+
+.movie-summary {
+  flex-direction: column;
+}
+
+}
