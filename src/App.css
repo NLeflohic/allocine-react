@@ -136,4 +136,6 @@ span {
   flex-direction: column;
 }
 
+.container .search{
+  flex-direction: column;
 }
